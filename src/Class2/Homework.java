@@ -23,5 +23,6 @@ public class Homework {
        System.out.println("Initial of my name is "+ nameInitial);
 
 
+
 }
 }
