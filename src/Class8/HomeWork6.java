@@ -28,7 +28,6 @@ public class HomeWork6 {
 
         double[] ave = {22, 11, 33, 44, 55};
         double sum = 0;
-
         for (int a = 0; a < ave.length; a++) {
             sum = sum + ave[a];
         }
